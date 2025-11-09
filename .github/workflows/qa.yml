@@ -1,0 +1,21 @@
+---
+
+name: Quality Assurance
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+jobs:
+
+  xmllint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: docker://ghcr.io/delb-xml/xmllint-action:0.2
+        with:
+          root_folder: files
+
+...
