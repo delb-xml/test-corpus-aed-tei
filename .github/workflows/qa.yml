@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - uses: delb-xml/xmllint-action@0.10
+      - uses: delb-xml/xmllint-action@0.11
         with:
           root_folder: files
 
