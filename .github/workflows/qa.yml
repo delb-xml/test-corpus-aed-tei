@@ -13,8 +13,7 @@ jobs:
   xmlllint:
     runs-on: ubuntu-latest
     steps:
-      - run: sudo apt install libxml2-utils
       - uses: actions/checkout@v5
-      - run: find files -type f -name '*.xml' -exec xmllint --noout --pedantic {} \;
+      - uses: delb-xml/xmlllint-action@0.1
 
 ...
