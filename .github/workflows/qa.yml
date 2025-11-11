@@ -14,6 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - uses: delb-xml/xmlllint-action@0.1
+      - uses: delb-xml/xmllint-action@0.1
 
 ...
