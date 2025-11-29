@@ -69,11 +69,16 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- R. O. Faulkner, The Stela of the Master-Sculptor Shen, in: JEA 38, 1952, 3-5 und Tf. 1 [Ü,K,*P]
-- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom. A study an an anthology (OBO 84), Freiburg und Göttinen 1988, 90-92 (Nr. 38) [Ü,K]
-- Cl. Obsomer, Sesostris Ier. Étude chronologique et historique du règne (CEA 5), Bruxelles 1995, 542-546 (Nr. 33) [Ü,B]
-- http://collectionsonline.lacma.org/mwebcgi/mweb.exe?request=record;id=16168;type=101 [K]
-- R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 124-126 (Nr. 40) [H, Ü]
+<bibl>- R. O. Faulkner, The Stela of the Master-Sculptor Shen, in: JEA 38, 1952, 3-5 und Tf. 1 [Ü,K,*P]
+
+- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom. A study an an anthology (OBO 84), Freiburg und Göttinen 1988, 90-92 (Nr. 38) [Ü,K]
+
+- Cl. Obsomer, Sesostris Ier. Étude chronologique et historique du règne (CEA 5), Bruxelles 1995, 542-546 (Nr. 33) [Ü,B]
+
+- http://collectionsonline.lacma.org/mwebcgi/mweb.exe?request=record;id=16168;type=101 [K]
+
+- R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 124-126 (Nr. 40) [H, Ü]
+
 - A. Oppenheim u.a. (Hgg.), Ancient Egypt Transformed. The Middle Kingdom, New Haven / London 2015, 153-154, Nr. 87 [P,K]</bibl>
 </listBibl>
 </additional>
@@ -107,7 +112,7 @@
 <profileDesc>
 <langUsage>
 <language ident="egy-egym-Egyp-Egypreg">frühes und klassisches Mittelägyptisch-reguläre Hieroglyphenschrift
-</language>
+</language> &amp;  &amp; 
 </langUsage>
 <particDesc>
 <listPerson type="editorial">
@@ -127,9 +132,12 @@
 <body>
 <ab>
 <s xml:lang="de" corresp="src:tlaIBUBdz1v8HZy80XwoSIdFDbyS18">Year [x] under [the Majesty of] the living Horus Ankhmesut, King of Upper and Lower Egypt, Kheperkare, beloved of Osiris, who lives for ever.</s>
-<s xml:lang="de" corresp="src:tlaIBUBd7W3Rfs6W0cnlGhcTRhe41o">An offering which the King gives,
-and Osiris Khentamentiu, Lord of Abydos,
-Wepwawet, Lord of the sacred land,
+<s xml:lang="de" corresp="src:tlaIBUBd7W3Rfs6W0cnlGhcTRhe41o">An offering which the King gives,
+
+and Osiris Khentamentiu, Lord of Abydos,
+
+Wepwawet, Lord of the sacred land,
+
 and Anubis, who is upon his mountain,</s>
 <s xml:lang="de" corresp="src:tlaIBUBd8MFYTUCh0vOoWs5xKJNGvM">may he give an invocation offering of a thousand of bread and beer, a thousand of bulls and fowl, a thousand of alabaster and linen, a thousand of every pure thing to the ka of the dignified overseer of sculptors Shensetji, justified.</s>
 <s xml:lang="de" corresp="src:tlaIBUBd8oEF8ezH0Gmtw6eWPOgR50">His place was advanced in this temple,

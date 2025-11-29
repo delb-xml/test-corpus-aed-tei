@@ -66,14 +66,22 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- P. Pierret, Recueil d&#039;inscriptions inédites du Musée Égyptien du Louvre, Bd. I (Études Égyptologiques 2), Paris 1874 (= Hildesheim und New York 1978), 55-56 (Nr. C.174) [H,Ü]
-- K. Piehl, Inscriptions hiéroglyphiques recueillies en Europe et en Égypte. Première Partie: Planches; Deuxième Partie: Commentaire, Leipzig, 1886-1888, 8 und Taf. V.B [Ü,H]
-- A.J. Gayet, Musée du Louvre. Stèles de la XIIe dynastie (Bibliothèque de l&#039;École des Hautes Études. Sciences philologiques et historiques, 68), Paris 1886-1889, 6 und Tf. 30 (Nr. C.174) [Strichzeichnung]
-- Ch. Boreux, Département des Antiquités égyptiennes. Guide-Catalogue sommaire, Bd. I, Paris 1932, 161-162 (Nr. C 174) [K]
-- W.K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt, 5), New Haven und Philadelphia 1974, 6, 17, 23 und Tf. 17 (Nr. ANOC 8.1) [P,K]
-- D. Franke, Personendaten aus dem Mittleren Reich, (20.-16. Jahrhundert v.Chr.), Dossier 1-796 (AgÄbh 41), Wiesbaden 1984, 304 (Dossier 496) [K]
-- Chr. Ziegler (Hg.), Le Louvre. Les antiquités égyptiennes, Paris 1990 = Der Louvre. Die Ägyptische Sammlung, München 1992, 37 [Farbphoto; Stelenrand abgeschnitten]
-- http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&amp;idNotice=14216&amp;langue=fr [P]
+<bibl>- P. Pierret, Recueil d&#039;inscriptions inédites du Musée Égyptien du Louvre, Bd. I (Études Égyptologiques 2), Paris 1874 (= Hildesheim und New York 1978), 55-56 (Nr. C.174) [H,Ü]
+
+- K. Piehl, Inscriptions hiéroglyphiques recueillies en Europe et en Égypte. Première Partie: Planches; Deuxième Partie: Commentaire, Leipzig, 1886-1888, 8 und Taf. V.B [Ü,H]
+
+- A.J. Gayet, Musée du Louvre. Stèles de la XIIe dynastie (Bibliothèque de l&#039;École des Hautes Études. Sciences philologiques et historiques, 68), Paris 1886-1889, 6 und Tf. 30 (Nr. C.174) [Strichzeichnung]
+
+- Ch. Boreux, Département des Antiquités égyptiennes. Guide-Catalogue sommaire, Bd. I, Paris 1932, 161-162 (Nr. C 174) [K]
+
+- W.K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt, 5), New Haven und Philadelphia 1974, 6, 17, 23 und Tf. 17 (Nr. ANOC 8.1) [P,K]
+
+- D. Franke, Personendaten aus dem Mittleren Reich, (20.-16. Jahrhundert v.Chr.), Dossier 1-796 (AgÄbh 41), Wiesbaden 1984, 304 (Dossier 496) [K]
+
+- Chr. Ziegler (Hg.), Le Louvre. Les antiquités égyptiennes, Paris 1990 = Der Louvre. Die Ägyptische Sammlung, München 1992, 37 [Farbphoto; Stelenrand abgeschnitten]
+
+- http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&amp;idNotice=14216&amp;langue=fr [P]
+
 - R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 180-181 (Nr. 52) [H, Ü]</bibl>
 </listBibl>
 </additional>
@@ -100,7 +108,7 @@
 <prefixDef ident="src" matchPattern="([wd]+)" replacementPattern="MT4EEAGL2FFM3PMIREEIABHOQY.xml#l$1"></prefixDef>
 </listPrefixDef>
 </encodingDesc>
-<profileDesc>
+<profileDesc> &amp;  &amp; 
 <langUsage>
 <language ident="egy-egym-Egyp-Egypreg">frühes und klassisches Mittelägyptisch-reguläre Hieroglyphenschrift
 </language>

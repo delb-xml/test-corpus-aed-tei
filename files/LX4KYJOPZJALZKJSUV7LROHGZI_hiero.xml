@@ -66,16 +66,26 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- E.A.W. Budge, Hieroglyphic Texts from Egyptian Stelae, &amp;c., in the British Museum. Part 2, London 1912, 8 und Tf. 22 (Ausstellungsnr. 140)  [Strichzeichnung]
-- D. Franke, Personendaten aus dem Mittleren Reich (20.-16. Jahrhundert v.Chr.). Dossiers 1-796 (ÄA 41), Wiesbaden 1984, 115 (Dossier 138) [K]
-- R.E. Freed, in: Peter Der Manuelian (Hg.), Studies in Honor of William Kelly Simpson, Boston 1996, Bd. I, 323, 326-327 (Werkstatt 9) [K]
-- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom. A Study and an Anthology (OBO 84), Freiburg und Göttingen 1988, 106-107, Nr. 45 [Ü]
-- J. Lieblein, Dictionnaire de noms hiéroglyphiques en ordre généalogique et alphabétique, Christiania und Leipzig 1871, 30, Nr. 107 (Stammbaum der Familie) H]
-- J. Omlin, Amenemhet I. und Sesostris I. Die Begründer der 12. Dynastie (Diss.), Heidelberg 1962, 61-62 [K]
-- K. Piehl, Inscriptions hiéroglyphiques recueillies en Égypte. Troisième Série: I. Planches; II. Commentaire, Leipzig, 1895 und 1903, I, Tf. xii-xiii (Nr. N); II, 9-10 [Ü,H]
-- S. Sharpe, Egyptian Inscriptions from the British Museum and other sources, London 1837, Bd. I, Tf. 80 [F]
-- W. K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt, 5), New Haven und Philadelphia 1974, 17 und Tf. 12 (links) (Nr. ANOC 5.1) [P*] 
-- http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=119632&amp;partid=1&amp;IdNum=572&amp;orig=%2fresearch%2fsearch_the_collection_database%2fmuseum_number_search.aspx [B,K; ohne Photo]
+<bibl>- E.A.W. Budge, Hieroglyphic Texts from Egyptian Stelae, &amp;c., in the British Museum. Part 2, London 1912, 8 und Tf. 22 (Ausstellungsnr. 140)  [Strichzeichnung]
+
+- D. Franke, Personendaten aus dem Mittleren Reich (20.-16. Jahrhundert v.Chr.). Dossiers 1-796 (ÄA 41), Wiesbaden 1984, 115 (Dossier 138) [K]
+
+- R.E. Freed, in: Peter Der Manuelian (Hg.), Studies in Honor of William Kelly Simpson, Boston 1996, Bd. I, 323, 326-327 (Werkstatt 9) [K]
+
+- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom. A Study and an Anthology (OBO 84), Freiburg und Göttingen 1988, 106-107, Nr. 45 [Ü]
+
+- J. Lieblein, Dictionnaire de noms hiéroglyphiques en ordre généalogique et alphabétique, Christiania und Leipzig 1871, 30, Nr. 107 (Stammbaum der Familie) H]
+
+- J. Omlin, Amenemhet I. und Sesostris I. Die Begründer der 12. Dynastie (Diss.), Heidelberg 1962, 61-62 [K]
+
+- K. Piehl, Inscriptions hiéroglyphiques recueillies en Égypte. Troisième Série: I. Planches; II. Commentaire, Leipzig, 1895 und 1903, I, Tf. xii-xiii (Nr. N); II, 9-10 [Ü,H]
+
+- S. Sharpe, Egyptian Inscriptions from the British Museum and other sources, London 1837, Bd. I, Tf. 80 [F]
+
+- W. K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt, 5), New Haven und Philadelphia 1974, 17 und Tf. 12 (links) (Nr. ANOC 5.1) [P*] 
+
+- http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=119632&amp;partid=1&amp;IdNum=572&amp;orig=%2fresearch%2fsearch_the_collection_database%2fmuseum_number_search.aspx [B,K; ohne Photo]
+
 - R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 116-119 (Nr. 38) [H, Ü]</bibl>
 </listBibl>
 </additional>
@@ -100,7 +110,7 @@
 </listPrefixDef>
 <listPrefixDef>
 <prefixDef ident="src" matchPattern="([wd]+)" replacementPattern="LX4KYJOPZJALZKJSUV7LROHGZI.xml#l$1"></prefixDef>
-</listPrefixDef>
+</listPrefixDef> &amp;  &amp; 
 </encodingDesc>
 <profileDesc>
 <langUsage>

@@ -98,7 +98,7 @@
 <particDesc>
 <listPerson type="editorial">
 <person>
-<persName>Renata & Peter Landgrafova & Dils</persName>
+<persName>Renata &amp; Peter Landgrafova &amp; Dils</persName>
 </person>
 </listPerson>
 </particDesc>
@@ -150,9 +150,12 @@ Djefaihapi, lord of provision.</s>
 the hereditary noble and local prince,
 seal-bearer of the king of Lower Egypt, sole friend,
 the true overseer of priests of Wepwawet, Lord of Siut, Djefaihapi.</s>
-<s xml:lang="de" corresp="src:tlaIBUBd1ItatvGjEWQtKDWenjjsyg">One truly in the heart of his lord,
-one who acts according to what is in his heart,
-one efficient of conduct when he is sent,
+<s xml:lang="de" corresp="src:tlaIBUBd1ItatvGjEWQtKDWenjjsyg">One truly in the heart of his lord,
+
+one who acts according to what is in his heart,
+
+one efficient of conduct when he is sent,
+
 possessor of praise under any account,</s>
 <s xml:lang="de" corresp="src:tlaIBUBdzEofSpQuE2Ev26jQ4b4ISc">one broad of steps given by the king,
 one praised by Horus within the palace,
@@ -163,10 +166,14 @@ one whose excellence his lord beholds,</s>
 one happy because of the leading of the king,
 one in the heart of Horus who advanced him,
 one loyal to him who made him excellent,</s>
-<s xml:lang="de" corresp="src:tlaIBUBd6vZULlUH0VFsROZnHOfEYI">one broad of steps, free of exaggeration,
-one who followed his lord on his journeys,
-overseer of the entire southern district,
-count and true overseer of priests,
+<s xml:lang="de" corresp="src:tlaIBUBd6vZULlUH0VFsROZnHOfEYI">one broad of steps, free of exaggeration,
+
+one who followed his lord on his journeys,
+
+overseer of the entire southern district,
+
+count and true overseer of priests,
+
 Djefaihapi, born of Jdy-aat.</s>
 </ab>
 </body>

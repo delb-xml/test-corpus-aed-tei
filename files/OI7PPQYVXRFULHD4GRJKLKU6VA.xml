@@ -66,18 +66,30 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- B. Porter und R.L.B. Moss, Topographical Bibliography of Ancient Egyptian Texts, Reliefs, and Paintings. I. The Theban Necropolis. Part 2. Royal Tombs and Smaller Cemeteries, Second Edition, Oxford 1964, 595 (Nr. 2) [B]
-- H.E. Winlock, in: AJSL 32, 1915, 15 (Nr. 2) [K]
-- H.E. Winlock, in: JNES 2, 1943, 251, 269 und Tf. 34.a [P,K]
-- J.J. Clère und J. Vandier, Textes de la Premiere Période Intermédiaire et de la XIème dynastie, Bruxelles 1948, 9 (Nr. 14) [H]
-- W.C. Hayes, The Scepter of Egypt, I, New York 1953, 153, Fig. 91 [P]
-- H.G. Fischer, in: Artibus Asiae 22, 1959, 252 und Fig. 17 auf S. 246 [D]
-- W. Schenkel, Frühmittelägyptische Studien (Bonner Orientalische Studien, NS 13), Bonn 1962, 112, § 42b [zur Datierung]
-- W. Schenkel, Memphis - Herakleopolis - Theben (Äg Abh 12), Wiesbaden 1965, 110-111 (Nr. 79) [Ü]
-- D. Wildung, Sesostris und Amenemhet, Fribourg und München 1984, 37, Abb. 30 [P]
-- G. Robins, The Art of Ancient Egypt, London 1997, 84, Abb. 82 [P]
-- http://www.metmuseum.org/collections/search-the-collections/100000189 (29.01.2013) [P,K]
-- R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 22-23 (Nr. 8) [H, Ü]
+<bibl>- B. Porter und R.L.B. Moss, Topographical Bibliography of Ancient Egyptian Texts, Reliefs, and Paintings. I. The Theban Necropolis. Part 2. Royal Tombs and Smaller Cemeteries, Second Edition, Oxford 1964, 595 (Nr. 2) [B]
+
+- H.E. Winlock, in: AJSL 32, 1915, 15 (Nr. 2) [K]
+
+- H.E. Winlock, in: JNES 2, 1943, 251, 269 und Tf. 34.a [P,K]
+
+- J.J. Clère und J. Vandier, Textes de la Premiere Période Intermédiaire et de la XIème dynastie, Bruxelles 1948, 9 (Nr. 14) [H]
+
+- W.C. Hayes, The Scepter of Egypt, I, New York 1953, 153, Fig. 91 [P]
+
+- H.G. Fischer, in: Artibus Asiae 22, 1959, 252 und Fig. 17 auf S. 246 [D]
+
+- W. Schenkel, Frühmittelägyptische Studien (Bonner Orientalische Studien, NS 13), Bonn 1962, 112, § 42b [zur Datierung]
+
+- W. Schenkel, Memphis - Herakleopolis - Theben (Äg Abh 12), Wiesbaden 1965, 110-111 (Nr. 79) [Ü]
+
+- D. Wildung, Sesostris und Amenemhet, Fribourg und München 1984, 37, Abb. 30 [P]
+
+- G. Robins, The Art of Ancient Egypt, London 1997, 84, Abb. 82 [P]
+
+- http://www.metmuseum.org/collections/search-the-collections/100000189 (29.01.2013) [P,K]
+
+- R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 22-23 (Nr. 8) [H, Ü]
+
 - A. Oppenheim u.a. (Hgg.), Ancient Egypt Transformed. The Middle Kingdom, New Haven / London 2015, 43-44, Nr. 2 [P,K]</bibl>
 </listBibl>
 </additional>
@@ -100,7 +112,7 @@
 <listPrefixDef>
 <prefixDef ident="m" matchPattern="(w+)" replacementPattern="morphologicalFeatures.xml"></prefixDef>
 </listPrefixDef>
-<listPrefixDef>
+<listPrefixDef> &amp;  &amp; 
 <prefixDef ident="src" matchPattern="([wd]+)" replacementPattern="OI7PPQYVXRFULHD4GRJKLKU6VA.xml#l$1"></prefixDef>
 </listPrefixDef>
 </encodingDesc>

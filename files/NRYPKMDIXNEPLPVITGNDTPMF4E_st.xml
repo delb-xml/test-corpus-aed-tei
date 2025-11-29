@@ -67,12 +67,18 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- K. Piehl, Inscriptions hiéroglyphiques recueillies en Égypte. Troisième Série: I. Planches; II. Commentaire, Leipzig, 1895 und 1903, I, Tf. xxiii-xxiv (Nr. A); II, 18 [H,Ü]
-- P.A.A. Boeser, Beischreibung der aegyptischen Sammlung des Niederländischen Reichsmuseums der Altertümer in Leiden. Die Denkmäler der Zeit zwischen dem Alten und dem Mittleren Reich und des Mittleren Reiches. Erste Abteilung: Stelen, Haag 1909, 3 (Nr. 4; mit der falschen Nr. AP 72 und AP 73 statt AP 74) und Tf. 3 [*P]
-- J. Spiegel, Die Götter von Abydos (GOF IV/1), Wiesbaden 1973, 125-127 [K, Ü von Zl. 2-5]
-- W.K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt, 5), New Haven und Philadelphia 1974, 12 [Ü von Zl. 2-5]
-- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom. A Study and an Anthology (OBO 84), Freiburg und Göttingen 1988, 111-113, Nr. 48 [Ü]
-- http://www.rmo.nl/collectie/zoeken?object=AP+74 (26.01.2012) [P]
+<bibl>- K. Piehl, Inscriptions hiéroglyphiques recueillies en Égypte. Troisième Série: I. Planches; II. Commentaire, Leipzig, 1895 und 1903, I, Tf. xxiii-xxiv (Nr. A); II, 18 [H,Ü]
+
+- P.A.A. Boeser, Beischreibung der aegyptischen Sammlung des Niederländischen Reichsmuseums der Altertümer in Leiden. Die Denkmäler der Zeit zwischen dem Alten und dem Mittleren Reich und des Mittleren Reiches. Erste Abteilung: Stelen, Haag 1909, 3 (Nr. 4; mit der falschen Nr. AP 72 und AP 73 statt AP 74) und Tf. 3 [*P]
+
+- J. Spiegel, Die Götter von Abydos (GOF IV/1), Wiesbaden 1973, 125-127 [K, Ü von Zl. 2-5]
+
+- W.K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt, 5), New Haven und Philadelphia 1974, 12 [Ü von Zl. 2-5]
+
+- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom. A Study and an Anthology (OBO 84), Freiburg und Göttingen 1988, 111-113, Nr. 48 [Ü]
+
+- http://www.rmo.nl/collectie/zoeken?object=AP+74 (26.01.2012) [P]
+
 - R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 190-192 (Nr. 56) [H, Ü]</bibl>
 </listBibl>
 </additional>
@@ -101,7 +107,7 @@
 </encodingDesc>
 <profileDesc>
 <langUsage>
-<language ident="egy-egym-Egyp-Egypreg">frühes und klassisches Mittelägyptisch-reguläre Hieroglyphenschrift
+<language ident= &amp; y-egym-Egyp-Egypr &amp; >frühes und klassisches Mittelägyptisch-reguläre Hieroglyphenschrift
 </language>
 </langUsage>
 <particDesc>

@@ -120,7 +120,7 @@
 <particDesc>
 <listPerson type="editorial">
 <person>
-<persName>Peter & Heinz Dils & Felber</persName>
+<persName>Peter &amp; Heinz Dils &amp; Felber</persName>
 </person>
 </listPerson>
 </particDesc>
@@ -204,7 +204,8 @@ keiner vergießt (deswegen) Tränen.</s>
 <s xml:lang="de" corresp="src:tlaIBUBdyqmW5ZiKEaVrP9Dhw71yWA">Zu Fuß wird/kann man das Wasser überqueren.</s>
 <s xml:lang="de" corresp="src:tlaIBUBd0OLClxyokDDsn33qLfhCFE">Man wird nach Wasser für die Schiffe (oder: Wasser der Schiffe) [such]en müssen, um es zu befahren;</s>
 <s xml:lang="de" corresp="src:tlaIBUBd4TuvjK3bEjFhV4cnD8hW2k">(Denn) sein (d.h. des Wassers) Weg (d.h. das Flußbett) ist zum Ufer [gewor]den.</s>
-<s xml:lang="de" corresp="src:tlaIBUBd3hWYWgxGEK3msWdVK7GQdU">Das Ufer wird zur Flut,
+<s xml:lang="de" corresp="src:tlaIBUBd3hWYWgxGEK3msWdVK7GQdU">Das Ufer wird zur Flut,
+
 und der Bereich des Wassers (wird) zu dem, was im Bereich des Ufers liegt. (?)</s>
 <s xml:lang="de" corresp="src:tlaIBUBd4WuGv1y9UadhRoo5hT2waM">Der Südwind wird dem Nordwind entgegenwehen:</s>
 <s xml:lang="de" corresp="src:tlaIBUBdwQHDQxX4UQblyGbj0WtZ9I">und es (wird) keinen Himmel mit nur einem Wind (mehr) geben.</s>

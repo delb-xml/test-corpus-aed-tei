@@ -67,20 +67,34 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- Porter und Moss, Topographical Bibliography, V, 102 [B]
-- Caroline L. Ransom, The Stela of Menthu-Weser, New York 1913 [P,H,Ü,K] 
-- C.L. Ransom Williams, The Stela of Menthu-weser, in: The Metropolitan Museum of Art Bulletin 8, 1913, 216-218 [P,K]
-- K. Sethe, Aegyptische Lesestücke zum Gebrauch im akademischen Unterricht. Texte des Mittleren Reiches, Leipzig 1924, 79-80 (Nr. 19) [H]
-- K. Sethe, Erläuterungen zu den Aegyptischen Lesestücken. Texte des Mittleren Reiches, Leipzig 1927, 123-126 [K]
-- W.C. Hayes, The Scepter of Egypt: A Background for the Study of the Egyptian Antiquities in The Metropolitan Museum of Art. Part 1: From the Earliest Times to the End of the Middle Kingdom, New York 1953, 299-300 mit Fig. 195 auf S. 298 [P,Ü,K]
-- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom (OBO 84), Freiburg und Göttingen 1988, 104-105 (Nr. 44) [Ü]
-- Cl. Obsomer, Sésostris Ier. Étude chronologique et historique du règne (Connaissance de l&#039;Égypte ancienne 5), Bruxelles 1995, 567-570 (Nr. 41) [B,Ü,K]
-- R. Freed, in: P. Der Manuelian (Hg.), Studies in Honor of William Kelly Simpson, I, Boston 1996, 320-323 mit Fig. 8a [K,P]
-- D. Wildung (Hg.), Ägypten 2000 v. Chr. Die Geburt des Individuums, München 2000, 86-88, Nr. 26 [P,Ü]
-- J.P. Allen, in: D.P. Silverman, W.K. Simpson, J. Wegner (Hg.), Archaism and Innovation, New Haven and Philadelphia 2009, 263-269 [K]
-- http://projetrosette.info/assets/Textes/Stele_Montou-Ouser.jpg [P]
-- http://www.metmuseum.org/collection/the-collection-online/search/544320 [P,B]
-- R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 130-133 (Nr. 42) [H, Ü]
+<bibl>- Porter und Moss, Topographical Bibliography, V, 102 [B]
+
+- Caroline L. Ransom, The Stela of Menthu-Weser, New York 1913 [P,H,Ü,K] 
+
+- C.L. Ransom Williams, The Stela of Menthu-weser, in: The Metropolitan Museum of Art Bulletin 8, 1913, 216-218 [P,K]
+
+- K. Sethe, Aegyptische Lesestücke zum Gebrauch im akademischen Unterricht. Texte des Mittleren Reiches, Leipzig 1924, 79-80 (Nr. 19) [H]
+
+- K. Sethe, Erläuterungen zu den Aegyptischen Lesestücken. Texte des Mittleren Reiches, Leipzig 1927, 123-126 [K]
+
+- W.C. Hayes, The Scepter of Egypt: A Background for the Study of the Egyptian Antiquities in The Metropolitan Museum of Art. Part 1: From the Earliest Times to the End of the Middle Kingdom, New York 1953, 299-300 mit Fig. 195 auf S. 298 [P,Ü,K]
+
+- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom (OBO 84), Freiburg und Göttingen 1988, 104-105 (Nr. 44) [Ü]
+
+- Cl. Obsomer, Sésostris Ier. Étude chronologique et historique du règne (Connaissance de l&#039;Égypte ancienne 5), Bruxelles 1995, 567-570 (Nr. 41) [B,Ü,K]
+
+- R. Freed, in: P. Der Manuelian (Hg.), Studies in Honor of William Kelly Simpson, I, Boston 1996, 320-323 mit Fig. 8a [K,P]
+
+- D. Wildung (Hg.), Ägypten 2000 v. Chr. Die Geburt des Individuums, München 2000, 86-88, Nr. 26 [P,Ü]
+
+- J.P. Allen, in: D.P. Silverman, W.K. Simpson, J. Wegner (Hg.), Archaism and Innovation, New Haven and Philadelphia 2009, 263-269 [K]
+
+- http://projetrosette.info/assets/Textes/Stele_Montou-Ouser.jpg [P]
+
+- http://www.metmuseum.org/collection/the-collection-online/search/544320 [P,B]
+
+- R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 130-133 (Nr. 42) [H, Ü]
+
 - A. Oppenheim u.a. (Hgg.), Ancient Egypt Transformed. The Middle Kingdom, New Haven / London 2015, 125-127, Nr. 60 [P,K]</bibl>
 </listBibl>
 </additional>
@@ -101,7 +115,7 @@
 <prefixDef ident="ths" matchPattern="([wd]+)" replacementPattern="thesaurus.xml"></prefixDef>
 </listPrefixDef>
 <listPrefixDef>
-<prefixDef ident="m" matchPattern="(w+)" replacementPattern="morphologicalFeatures.xml"></prefixDef>
+<prefixDef ident &amp; " matchPattern="( &amp; " replacementPattern="morphologicalFeatures.xml"></prefixDef>
 </listPrefixDef>
 <listPrefixDef>
 <prefixDef ident="src" matchPattern="([wd]+)" replacementPattern="HQOYN6JSHFDHXJ7PLWVW3LDMQ4.xml#l$1"></prefixDef>

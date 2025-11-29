@@ -66,22 +66,38 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- Sharpe, Egyptian Inscriptions, II, 1855, Tf. 83 [F]
-- E.A. Wallis Budge, British Museum. A Guide to the Egyptian Galleries (Sculpture), London 1909, 60 (Nr. 197) [K]
-- E. A. T. W. Budge, Hieroglyphic texts from Egyptian stelae, etc., in the British Museum, Bd. II, London 1912, 8 (Ausstellungsnr. 197 = Inventarnr. 581) und Tf. 23 [F]
-- K. Sethe, Aegyptische Lesestücke zum Gebrauch im akademischen Unterricht. Texte des Mittleren Reiches, Leipzig 1924, S. 80-81 (Nr. 20) [H]
-- K. Sethe, Erläuterungen zu den Aegyptischen Lesestücken, Leipzig 1927, 126-128 [K]
-- J. Spiegel, Die Götter von Abydos. Studien zum ägyptischen Synkretismus, in: GOF 1 (1973), S. 131-145 [Ü,K]
-- W. K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt No. 5), New Haven und Philadelphia 1974, 23, 27 und Tf. 12 (Nr. ANOC 5.2) [P] 
-- M. Lichtheim, Ancient Egyptian Literature. Vol. 1, Berkeley, Los Angeles und London, 1975, S. 120-123 [Ü,K,B]
-- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom. A study an an anthology (OBO 84), Freiburg und Göttingen 1988, 109-111 (Nr. 47) [Ü,K,B]
-- R. B. Parkinson, Voices from Ancient Egypt: An Anthology of Middle Kingdom Writings, London, 1991, 61-63 [Ü,P]
-- M. Lichtheim, Maat in Egyptian Autobiographies and Related Studies (OBO 120), Freiburg und Göttingen 1992, 35 [Ü (Z. 13 u. 17]
-- S. Quirke und J. Spencer, The British Museum Book of Ancient Egypt, London 1992, 134, Abb. 104 [P]
-- Freed, in: P. Der Manuelian (Hg.), Studies in Honor of William Kelly Simpson, I, Boston 1996, 323-326 [K]
-- M. Collier und B. Manley,  How to Read Egyptian Hieroglyphs, London 1998, 59-60, 165 [F,Ü,K oberes Register]
-- http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=119633&amp;partid=1&amp;searchText=EA+581&amp;fromADBC=ad&amp;toADBC=ad&amp;numpages=10&amp;orig=%2fresearch%2fsearch_the_collection_database.aspx&amp;currentPage=1 [B,P,K]
-- http://www.britishmuseum.org/collectionimages/AN00152/AN00152470_001_l.jpg [*P]
+<bibl>- Sharpe, Egyptian Inscriptions, II, 1855, Tf. 83 [F]
+
+- E.A. Wallis Budge, British Museum. A Guide to the Egyptian Galleries (Sculpture), London 1909, 60 (Nr. 197) [K]
+
+- E. A. T. W. Budge, Hieroglyphic texts from Egyptian stelae, etc., in the British Museum, Bd. II, London 1912, 8 (Ausstellungsnr. 197 = Inventarnr. 581) und Tf. 23 [F]
+
+- K. Sethe, Aegyptische Lesestücke zum Gebrauch im akademischen Unterricht. Texte des Mittleren Reiches, Leipzig 1924, S. 80-81 (Nr. 20) [H]
+
+- K. Sethe, Erläuterungen zu den Aegyptischen Lesestücken, Leipzig 1927, 126-128 [K]
+
+- J. Spiegel, Die Götter von Abydos. Studien zum ägyptischen Synkretismus, in: GOF 1 (1973), S. 131-145 [Ü,K]
+
+- W. K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt No. 5), New Haven und Philadelphia 1974, 23, 27 und Tf. 12 (Nr. ANOC 5.2) [P] 
+
+- M. Lichtheim, Ancient Egyptian Literature. Vol. 1, Berkeley, Los Angeles und London, 1975, S. 120-123 [Ü,K,B]
+
+- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom. A study an an anthology (OBO 84), Freiburg und Göttingen 1988, 109-111 (Nr. 47) [Ü,K,B]
+
+- R. B. Parkinson, Voices from Ancient Egypt: An Anthology of Middle Kingdom Writings, London, 1991, 61-63 [Ü,P]
+
+- M. Lichtheim, Maat in Egyptian Autobiographies and Related Studies (OBO 120), Freiburg und Göttingen 1992, 35 [Ü (Z. 13 u. 17]
+
+- S. Quirke und J. Spencer, The British Museum Book of Ancient Egypt, London 1992, 134, Abb. 104 [P]
+
+- Freed, in: P. Der Manuelian (Hg.), Studies in Honor of William Kelly Simpson, I, Boston 1996, 323-326 [K]
+
+- M. Collier und B. Manley,  How to Read Egyptian Hieroglyphs, London 1998, 59-60, 165 [F,Ü,K oberes Register]
+
+- http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=119633&amp;partid=1&amp;searchText=EA+581&amp;fromADBC=ad&amp;toADBC=ad&amp;numpages=10&amp;orig=%2fresearch%2fsearch_the_collection_database.aspx&amp;currentPage=1 [B,P,K]
+
+- http://www.britishmuseum.org/collectionimages/AN00152/AN00152470_001_l.jpg [*P]
+
 - R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 112-114 (Nr. 37) [H, Ü]</bibl>
 </listBibl>
 </additional>
@@ -100,7 +116,7 @@
 </listPrefixDef>
 <listPrefixDef>
 <prefixDef ident="ths" matchPattern="([wd]+)" replacementPattern="thesaurus.xml"></prefixDef>
-</listPrefixDef>
+</listPrefixDef> &amp;  &amp; 
 <listPrefixDef>
 <prefixDef ident="m" matchPattern="(w+)" replacementPattern="morphologicalFeatures.xml"></prefixDef>
 </listPrefixDef>
@@ -131,14 +147,22 @@
 <body>
 <ab>
 <s xml:lang="de" corresp="src:tlaIBYAdThsvEn9OUS9n7HREQQdcXM"></s>
-<s xml:lang="de" corresp="src:tlaIBUBdwoCRbqri09Wrf14jVbfca4">As for this chapel, I built (it) in the desert of Abydos - this island where one stays,
-the walls which the Lord of All ordained,
-a beneficient place since the time of Osiris,
-which Horus founded for the forefathers,
-for which the stars of heaven work,
-mistress of humankind,
-to whom the great ones from Busiris come,
-second (= equal) in blessedness to Heliopolis,
+<s xml:lang="de" corresp="src:tlaIBUBdwoCRbqri09Wrf14jVbfca4">As for this chapel, I built (it) in the desert of Abydos - this island where one stays,
+
+the walls which the Lord of All ordained,
+
+a beneficient place since the time of Osiris,
+
+which Horus founded for the forefathers,
+
+for which the stars of heaven work,
+
+mistress of humankind,
+
+to whom the great ones from Busiris come,
+
+second (= equal) in blessedness to Heliopolis,
+
 with which the Lord of All is satisfied.</s>
 <s xml:lang="de" corresp="src:tlaIBUBd4HMqzGFHUvYuL4BicQ5AXs">An invocation offering for the dignified chamberlain Antef, begotten of Senet.</s>
 <s xml:lang="de" corresp="src:tlaIBUBdQa7rPtG6UqdqUQMqP9cW38">I was one silent with the wrathful, one who mingled with the ignorant in order to prevent aggression.</s>

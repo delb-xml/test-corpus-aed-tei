@@ -66,15 +66,24 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- S. Sharpe, Egyptian Inscriptions, II, Tf. 84 [F]
-- K. Piehl, Inscriptions hiéroglyphiques recueillies en Égypte. Troisième Série: I. Planches; II. Commentaire, Leipzig, 1895 und 1903, I, Tf. xiii-xiv (Nr. O); II, 10-11 [Ü,H]
-- E. A. T. W. Budge, Hieroglyphic texts from Egyptian stelae, etc., in the British Museum, Bd. II, London 1912, 8 (Ausstellungsnr. 141 = Inventarnr. 562) und Tf. 24 [F]
-- W. K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt No. 5), New Haven und Philadelphia 1974, 4 (Anm. 25), 17, 23, 27 und Tf. 12 (Nr. ANOC 5.3) [P] 
-- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom. A study an an anthology (OBO 84), Freiburg und Göttingen 1988, 108-109 (Nr. 46) [Ü,K,B]
-- Freed, in: P. Der Manuelian (Hg.), Studies in Honor of William Kelly Simpson, I, Boston 1996, 323-326 [K]
-- J.F. Nunn, Ancient Egyptian Medicine, London 1996, 80 und Abb. 4.10 [P,K zum Bildfeld]
-- http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=119634&amp;partid=1&amp;IdNum=562&amp;orig=%2fresearch%2fsearch_the_collection_database%2fmuseum_number_search.aspx (17.01.2012) [P,F,K]
-- http://www.britishmuseum.org/collectionimages/AN00178/AN00178738_001_l.jpg (10.03.2016) [*P]
+<bibl>- S. Sharpe, Egyptian Inscriptions, II, Tf. 84 [F]
+
+- K. Piehl, Inscriptions hiéroglyphiques recueillies en Égypte. Troisième Série: I. Planches; II. Commentaire, Leipzig, 1895 und 1903, I, Tf. xiii-xiv (Nr. O); II, 10-11 [Ü,H]
+
+- E. A. T. W. Budge, Hieroglyphic texts from Egyptian stelae, etc., in the British Museum, Bd. II, London 1912, 8 (Ausstellungsnr. 141 = Inventarnr. 562) und Tf. 24 [F]
+
+- W. K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt No. 5), New Haven und Philadelphia 1974, 4 (Anm. 25), 17, 23, 27 und Tf. 12 (Nr. ANOC 5.3) [P] 
+
+- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom. A study an an anthology (OBO 84), Freiburg und Göttingen 1988, 108-109 (Nr. 46) [Ü,K,B]
+
+- Freed, in: P. Der Manuelian (Hg.), Studies in Honor of William Kelly Simpson, I, Boston 1996, 323-326 [K]
+
+- J.F. Nunn, Ancient Egyptian Medicine, London 1996, 80 und Abb. 4.10 [P,K zum Bildfeld]
+
+- http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=119634&amp;partid=1&amp;IdNum=562&amp;orig=%2fresearch%2fsearch_the_collection_database%2fmuseum_number_search.aspx (17.01.2012) [P,F,K]
+
+- http://www.britishmuseum.org/collectionimages/AN00178/AN00178738_001_l.jpg (10.03.2016) [*P]
+
 - R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 120-122 (Nr. 39) [H, Ü]</bibl>
 </listBibl>
 </additional>
@@ -100,7 +109,7 @@
 <listPrefixDef>
 <prefixDef ident="src" matchPattern="([wd]+)" replacementPattern="TWJLZ7UEV5BX3FGMNX7VBQFNH4.xml#l$1"></prefixDef>
 </listPrefixDef>
-</encodingDesc>
+</encodingDesc> &amp;  &amp; 
 <profileDesc>
 <langUsage>
 <language ident="egy-egym-Egyp-Egypreg">frühes und klassisches Mittelägyptisch-reguläre Hieroglyphenschrift

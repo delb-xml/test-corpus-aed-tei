@@ -103,7 +103,7 @@
 <particDesc>
 <listPerson type="editorial">
 <person>
-<persName>Renata & Peter Landgrafova & Dils</persName>
+<persName>Renata &amp; Peter Landgrafova &amp; Dils</persName>
 </person>
 </listPerson>
 </particDesc>
@@ -134,9 +134,12 @@ and that Heket and Khnum and all gods of Abydos give:</s>
 <s xml:lang="de" corresp="src:tlaIBUBd8CHOTRIBkz4sYi9SQunkow">I returned in peace to Upper Egypt, (after) I had done that because of which I had been dispatched.</s>
 <s xml:lang="de" corresp="src:tlaIBUBdWRqnFBN6ELWjGen7ohWCJ0">I handed over my task to my son while I was still alive,</s>
 <s xml:lang="de" corresp="src:tlaIBUBd37jxUCW10H7p2JWbRAV3Xs">I made for him a testament greater than that which my father had made,</s>
-<s xml:lang="de" corresp="src:tlaIBUBd2EY18TLCkX1rimOHmQLaeU">my house having been established on its ground-plan,
-my field being in its place,
-with nothing of it missing,
+<s xml:lang="de" corresp="src:tlaIBUBd2EY18TLCkX1rimOHmQLaeU">my house having been established on its ground-plan,
+
+my field being in its place,
+
+with nothing of it missing,
+
 all things being in their respective place.</s>
 <s xml:lang="de" corresp="src:tlaIBUBdWlaB01ND0RakUGWVxGxAlY">It is my son who lets my name live on this stela.</s>
 <s xml:lang="de" corresp="src:tlaIBUBdQrpsLcPpkxbidH9TQopbgs">He acted as heir for me, like a diligent son: the overseer of the troops of the palace, the dignified Bebi, justified.</s>

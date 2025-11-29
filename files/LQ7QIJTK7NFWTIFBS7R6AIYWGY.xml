@@ -66,14 +66,22 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- B. Porter, R.L.B. Moss, Typographical Bibliography of ancient Egyptian hieroglyphic texts, reliefs, and paintings, V, Upper Egypt, Oxford, 1962, 55 [B]
-
-- F. Petrie, Tombs of the courtiers and Oxyrhynkhos (BSAE/ERA 28th year, 1922 = BSAE/ERA 37), London 1925, 10 (Beschreibung), 19 (Übers. durch Gardiner), Pl. 22-23 [Ü,F,P]
-- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom (OBO 88), Freiburg und Göttingen 1988, 68-69 (Nr. 27) und Tf. IV, [Ü,K,P]
-- J. D. Bourriau, Pharaohs and Mortals, Egyptian Art in the Middle Kingdom, Cambridge 1988, 21-22 (Nr. 10) [K,P]
-- D. Franke, Das Heiligtum des Heqaib auf Elephantine. Geschichte eines Prvinzialheiligtums im Mittlerem Reich, in: SAGA 9 (1994), S. 18 n. 52 [B]
-- G. T. Martin, Stelae from Egypt and Nubia in the Fitzwiliam Museum, Cambridge, c. 3000 BC - AD 1150, Cambridge, 2005, S. 20-22 (Nr. 16) [Ü,K,*P,F]
-- http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=E.9.1922&amp;oid=52242 (01.06.2016) [K]
+<bibl>- B. Porter, R.L.B. Moss, Typographical Bibliography of ancient Egyptian hieroglyphic texts, reliefs, and paintings, V, Upper Egypt, Oxford, 1962, 55 [B]
+
+
+
+- F. Petrie, Tombs of the courtiers and Oxyrhynkhos (BSAE/ERA 28th year, 1922 = BSAE/ERA 37), London 1925, 10 (Beschreibung), 19 (Übers. durch Gardiner), Pl. 22-23 [Ü,F,P]
+
+- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom (OBO 88), Freiburg und Göttingen 1988, 68-69 (Nr. 27) und Tf. IV, [Ü,K,P]
+
+- J. D. Bourriau, Pharaohs and Mortals, Egyptian Art in the Middle Kingdom, Cambridge 1988, 21-22 (Nr. 10) [K,P]
+
+- D. Franke, Das Heiligtum des Heqaib auf Elephantine. Geschichte eines Prvinzialheiligtums im Mittlerem Reich, in: SAGA 9 (1994), S. 18 n. 52 [B]
+
+- G. T. Martin, Stelae from Egypt and Nubia in the Fitzwiliam Museum, Cambridge, c. 3000 BC - AD 1150, Cambridge, 2005, S. 20-22 (Nr. 16) [Ü,K,*P,F]
+
+- http://webapps.fitzmuseum.cam.ac.uk/explorer/index.php?qu=E.9.1922&amp;oid=52242 (01.06.2016) [K]
+
 - R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 102-103 (Nr. 34) [H, Ü]</bibl>
 </listBibl>
 </additional>
@@ -100,7 +108,7 @@
 <prefixDef ident="src" matchPattern="([wd]+)" replacementPattern="LQ7QIJTK7NFWTIFBS7R6AIYWGY.xml#l$1"></prefixDef>
 </listPrefixDef>
 </encodingDesc>
-<profileDesc>
+<profileDesc> &amp;  &amp; 
 <langUsage>
 <language ident="egy-egym-Egyp-Egypreg">frühes und klassisches Mittelägyptisch-reguläre Hieroglyphenschrift
 </language>

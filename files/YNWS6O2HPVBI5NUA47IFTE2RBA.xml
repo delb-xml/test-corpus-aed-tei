@@ -70,16 +70,26 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- Porter und Moss, Topographical Bibliography, V, 97 [B]
-
-- H. Schäfer, Ein Zug nach der großen Oase unter Sesostris I., in: ZÄS 42, 1905, 124-128 mit Photo auf S. 125 [P,Ü,K]
-- J.H. Breasted, Ancient Records of Egypt, I, Chicago 1906, 253-254, § 524-528 [Ü]
-- G. Roeder, Aegyptische Inschriften aus den Königlichen Museen zu Berlin, I, Leipzig 1913, 164-165, Nr. 1199 [*H]
-- H.G. Fischer, in: JNES 16, 1957, 228 [K]
-- W. K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt, 5), New Haven und Philadelphia 1974, 6 und 13 [K]
-- L.L. Giddy, Egyptian Oases, Warminster 1987, 56 [K]
-- M. Lichtheim, Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom. A study and an anthology (OBO 84), Freiburg und Göttingen 1988, 93-94, Nr. 39 [Ü]
-- Cl. Obsomer, Sesostris Ier. Étude chronologique et historique du régne. Bruxelles (Connaisance d&#039;Égypte ancienne, 5), Bruxelles 1995, 506-508, Nr. 19 [Ü,K]
+<bibl>- Porter und Moss, Topographical Bibliography, V, 97 [B]
+
+
+
+- H. Schäfer, Ein Zug nach der großen Oase unter Sesostris I., in: ZÄS 42, 1905, 124-128 mit Photo auf S. 125 [P,Ü,K]
+
+- J.H. Breasted, Ancient Records of Egypt, I, Chicago 1906, 253-254, § 524-528 [Ü]
+
+- G. Roeder, Aegyptische Inschriften aus den Königlichen Museen zu Berlin, I, Leipzig 1913, 164-165, Nr. 1199 [*H]
+
+- H.G. Fischer, in: JNES 16, 1957, 228 [K]
+
+- W. K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt, 5), New Haven und Philadelphia 1974, 6 und 13 [K]
+
+- L.L. Giddy, Egyptian Oases, Warminster 1987, 56 [K]
+
+- M. Lichtheim, Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom. A study and an anthology (OBO 84), Freiburg und Göttingen 1988, 93-94, Nr. 39 [Ü]
+
+- Cl. Obsomer, Sesostris Ier. Étude chronologique et historique du régne. Bruxelles (Connaisance d&#039;Égypte ancienne, 5), Bruxelles 1995, 506-508, Nr. 19 [Ü,K]
+
 - R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 128-129 (Nr. 41) [H, Ü]</bibl>
 </listBibl>
 </additional>
@@ -108,7 +118,7 @@
 </listPrefixDef>
 <listPrefixDef>
 <prefixDef ident="src" matchPattern="([wd]+)" replacementPattern="YNWS6O2HPVBI5NUA47IFTE2RBA.xml#l$1"></prefixDef>
-</listPrefixDef>
+</listPrefixDef> &amp;  &amp; 
 </encodingDesc>
 <profileDesc>
 <langUsage>

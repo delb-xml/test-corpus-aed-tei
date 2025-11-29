@@ -70,14 +70,22 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- T.G. Allen, The Story of an Egyptian Politician, in: AJSL 38, 1921, 55-62 [P,H,Ü,K] (P eines Abklatsches und H seitenverkehrt)
-- H. Goedicke, The Inscription of DMI, in: JNES 19, 1960, 288-291 [P,Ü,K]
-- W. Schenkel, Memphis-Herakleopolis-Theben (ÄA 12), Wiesbaden 1965, 116-117, Nr. 83 [Ü]
-- L.D. Morenz, Die Zeit der Regionen im Spiegel der Gebelein-Region (PÄ 27), Leiden und Boston, 2010, 268, 316-321 [Ü,K, Transliteration]
-- H.G. Fischer, in: Kush 9, 1961, 45 und 77-80 [K für die Herkunftsangabe Gebelein]
-- H.G. Fischer, Dendera in the Third Millennium B.C., New York 1968, 201-202 [Ü,K zu Zl. 5-7]
-- S. Kubisch, Die Stelen der I. Zwischenzeit aus Gebelein, in: MDAIK 56, 2000, 239-265, für die Datierung 263 [K]
-- http://www.metmuseum.org/Collections/search-the-collections/100002402 (19.01.2012) [P,B]
+<bibl>- T.G. Allen, The Story of an Egyptian Politician, in: AJSL 38, 1921, 55-62 [P,H,Ü,K] (P eines Abklatsches und H seitenverkehrt)
+
+- H. Goedicke, The Inscription of DMI, in: JNES 19, 1960, 288-291 [P,Ü,K]
+
+- W. Schenkel, Memphis-Herakleopolis-Theben (ÄA 12), Wiesbaden 1965, 116-117, Nr. 83 [Ü]
+
+- L.D. Morenz, Die Zeit der Regionen im Spiegel der Gebelein-Region (PÄ 27), Leiden und Boston, 2010, 268, 316-321 [Ü,K, Transliteration]
+
+- H.G. Fischer, in: Kush 9, 1961, 45 und 77-80 [K für die Herkunftsangabe Gebelein]
+
+- H.G. Fischer, Dendera in the Third Millennium B.C., New York 1968, 201-202 [Ü,K zu Zl. 5-7]
+
+- S. Kubisch, Die Stelen der I. Zwischenzeit aus Gebelein, in: MDAIK 56, 2000, 239-265, für die Datierung 263 [K]
+
+- http://www.metmuseum.org/Collections/search-the-collections/100002402 (19.01.2012) [P,B]
+
 - http://images.metmuseum.org/CRDImages/eg/original/65.107_EGDP022529.jpg [P*]</bibl>
 </listBibl>
 </additional>
@@ -108,7 +116,7 @@
 <prefixDef ident="src" matchPattern="([wd]+)" replacementPattern="4MY4ZX7HERCYPKVN56KXL5U2BU.xml#l$1"></prefixDef>
 </listPrefixDef>
 </encodingDesc>
-<profileDesc>
+<profileDesc> &amp;  &amp; 
 <langUsage>
 <language ident="egy-egym-Egyp-Egypreg">frühes und klassisches Mittelägyptisch-reguläre Hieroglyphenschrift
 </language>

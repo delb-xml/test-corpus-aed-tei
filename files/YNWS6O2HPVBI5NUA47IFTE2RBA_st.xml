@@ -70,16 +70,26 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- Porter und Moss, Topographical Bibliography, V, 97 [B]
-
-- H. Schäfer, Ein Zug nach der großen Oase unter Sesostris I., in: ZÄS 42, 1905, 124-128 mit Photo auf S. 125 [P,Ü,K]
-- J.H. Breasted, Ancient Records of Egypt, I, Chicago 1906, 253-254, § 524-528 [Ü]
-- G. Roeder, Aegyptische Inschriften aus den Königlichen Museen zu Berlin, I, Leipzig 1913, 164-165, Nr. 1199 [*H]
-- H.G. Fischer, in: JNES 16, 1957, 228 [K]
-- W. K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt, 5), New Haven und Philadelphia 1974, 6 und 13 [K]
-- L.L. Giddy, Egyptian Oases, Warminster 1987, 56 [K]
-- M. Lichtheim, Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom. A study and an anthology (OBO 84), Freiburg und Göttingen 1988, 93-94, Nr. 39 [Ü]
-- Cl. Obsomer, Sesostris Ier. Étude chronologique et historique du régne. Bruxelles (Connaisance d&#039;Égypte ancienne, 5), Bruxelles 1995, 506-508, Nr. 19 [Ü,K]
+<bibl>- Porter und Moss, Topographical Bibliography, V, 97 [B]
+
+
+
+- H. Schäfer, Ein Zug nach der großen Oase unter Sesostris I., in: ZÄS 42, 1905, 124-128 mit Photo auf S. 125 [P,Ü,K]
+
+- J.H. Breasted, Ancient Records of Egypt, I, Chicago 1906, 253-254, § 524-528 [Ü]
+
+- G. Roeder, Aegyptische Inschriften aus den Königlichen Museen zu Berlin, I, Leipzig 1913, 164-165, Nr. 1199 [*H]
+
+- H.G. Fischer, in: JNES 16, 1957, 228 [K]
+
+- W. K. Simpson, The Terrace of the Great God at Abydos: The Offering Chapels of Dynasties 12 and 13 (Publications of the Pennsylvania-Yale Expedition to Egypt, 5), New Haven und Philadelphia 1974, 6 und 13 [K]
+
+- L.L. Giddy, Egyptian Oases, Warminster 1987, 56 [K]
+
+- M. Lichtheim, Ancient Egyptian Autobiographies Chiefly of the Middle Kingdom. A study and an anthology (OBO 84), Freiburg und Göttingen 1988, 93-94, Nr. 39 [Ü]
+
+- Cl. Obsomer, Sesostris Ier. Étude chronologique et historique du régne. Bruxelles (Connaisance d&#039;Égypte ancienne, 5), Bruxelles 1995, 506-508, Nr. 19 [Ü,K]
+
 - R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 128-129 (Nr. 41) [H, Ü]</bibl>
 </listBibl>
 </additional>
@@ -108,7 +118,7 @@
 </listPrefixDef>
 <listPrefixDef>
 <prefixDef ident="src" matchPattern="([wd]+)" replacementPattern="YNWS6O2HPVBI5NUA47IFTE2RBA.xml#l$1"></prefixDef>
-</listPrefixDef>
+</listPrefixDef> &amp;  &amp; 
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -135,11 +145,14 @@
 <s xml:lang="de" corresp="src:tlaIBUBd9by9fjWjkKPo1Jfim2MVm0">Year 34 under the Majesty of the King of Upper and Lower Egypt, 𓍹Kheper-ka-Re𓍺, the good god, Lord of the Two Lands, lord of ritual practice, beloved of all gods, son of Re, 𓍹Senwosret𓍺, who lives for ever and ever.</s>
 <s xml:lang="de" corresp="src:tlaIBUBd1D5cNLD2UD2gUqZ5gER5M0">An offering which the king gives (and) Osiris, Lord of Busiris, Khentamenti, the great god, lord of Abydos:</s>
 <s xml:lang="de" corresp="src:tlaIBUBd1qA2KTElUaWmtqrMtrg6jw">an invocation offering (of) bread, beer, oxen, fowl, a thousand of linen, and all good and pure things of which god lives, to the one dignified in front of the great god, lord of the sky, to the steward Djedj-iqu.</s>
-<s xml:lang="de" corresp="src:tlaIBUBd7wN8Lu45ExWrqahAKO77M4">As one whom the king knows, one who does all that he praises, did I come from Thebes,
-commanding troops of recruits, in order to secure the land of the oasis-dwellers,
+<s xml:lang="de" corresp="src:tlaIBUBd7wN8Lu45ExWrqahAKO77M4">As one whom the king knows, one who does all that he praises, did I come from Thebes,
+
+commanding troops of recruits, in order to secure the land of the oasis-dwellers,
+
 as an efficient official, one known to his lord, one excellent of counsel in the presence (of the king), one whom the officials of the palace distinguished.</s>
 <s xml:lang="de" corresp="src:tlaIBUBd3URxctsOET9p1fJxQAPaPI">Then I built this tomb at the Terrace of the Great God, so that I could be in his following,</s>
-<s xml:lang="de" corresp="src:tlaIBUBd30IHMatFEh4jT8UWsVpDLI">and the soldiers who belong to His Majesty brought offerings to my ka, from his $aq$-loaves and the best of his $hezmen$-loaves,
+<s xml:lang="de" corresp="src:tlaIBUBd30IHMatFEh4jT8UWsVpDLI">and the soldiers who belong to His Majesty brought offerings to my ka, from his $aq$-loaves and the best of his $hezmen$-loaves,
+
 like one does for the emissar of the king, who came to secure the boundaries of His Majesty.</s>
 <s xml:lang="de" corresp="src:tlaIBUBdQBwdV4DWkE2sitBl2bgNL4">The dignified Djedj-iqu.</s>
 <s xml:lang="de" corresp="src:tlaIBUBd43qiRk00U1bhMJmXcFmm30">His beloved wife, Qehi, dignified.</s>

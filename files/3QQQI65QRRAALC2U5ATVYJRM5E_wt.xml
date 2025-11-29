@@ -70,15 +70,24 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- B. Porter und R.L.B. Moss, Topographical Bibliography of Anciet Egyptian Hieroglyphic Texts, Reliefs, and Paintings. Bd. VII. Nubia, The Deserts, and Outside Egypt, Oxford 1952, 338-339 [B]
-- A. Erman, in: ZÄS 20, 1882, 204-205 [H]
-- S. Birch, Catalogue of the Collection of Egyptian Antiquities at Alnwick Castle, 1880, 268-270 und Tf. 4 [Zeichnung]
-- J.H. Breasted, Ancient Records of Egypt. Vol. I, Chicago 1906, 279, § 617-618 [Ü]
-- A. Nibbi, Remarks on the Two Stelae from the Wadi Gasus, in: JEA 62, 1976, 45-56 und Tf. X [P,Ü,K]
-- A.M.A.H. Sayed, in: RdE 29, 1977, 141 und Tf. 8a [Zeichnung von Birch]
-- D. Franke, in: S. Quirke (Hg.), Middle Kingdom Studies, New Malden 1991, 59-60 und 66 (Fig. 1 B) [Ü,K, Zeichnung von Birch]
-- Cl. Obsomer, Sésostris Ier. Étude chronologique et historique du règne (Connaissance de l&#039;Égypte ancienne 5), Bruxelles 1995, 710-711 (Nr. 171) [Ü]
-- R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 270-271 (Nr. 86) [H, Ü]
+<bibl>- B. Porter und R.L.B. Moss, Topographical Bibliography of Anciet Egyptian Hieroglyphic Texts, Reliefs, and Paintings. Bd. VII. Nubia, The Deserts, and Outside Egypt, Oxford 1952, 338-339 [B]
+
+- A. Erman, in: ZÄS 20, 1882, 204-205 [H]
+
+- S. Birch, Catalogue of the Collection of Egyptian Antiquities at Alnwick Castle, 1880, 268-270 und Tf. 4 [Zeichnung]
+
+- J.H. Breasted, Ancient Records of Egypt. Vol. I, Chicago 1906, 279, § 617-618 [Ü]
+
+- A. Nibbi, Remarks on the Two Stelae from the Wadi Gasus, in: JEA 62, 1976, 45-56 und Tf. X [P,Ü,K]
+
+- A.M.A.H. Sayed, in: RdE 29, 1977, 141 und Tf. 8a [Zeichnung von Birch]
+
+- D. Franke, in: S. Quirke (Hg.), Middle Kingdom Studies, New Malden 1991, 59-60 und 66 (Fig. 1 B) [Ü,K, Zeichnung von Birch]
+
+- Cl. Obsomer, Sésostris Ier. Étude chronologique et historique du règne (Connaissance de l&#039;Égypte ancienne 5), Bruxelles 1995, 710-711 (Nr. 171) [Ü]
+
+- R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 270-271 (Nr. 86) [H, Ü]
+
 - A. Oppenheim u.a. (Hgg.), Ancient Egypt Transformed. The Middle Kingdom, New Haven / London 2015, 175-176, Nr. 111 [P,K]</bibl>
 </listBibl>
 </additional>
@@ -108,7 +117,7 @@
 <listPrefixDef>
 <prefixDef ident="src" matchPattern="([wd]+)" replacementPattern="3QQQI65QRRAALC2U5ATVYJRM5E.xml#l$1"></prefixDef>
 </listPrefixDef>
-</encodingDesc>
+</encodingDesc> &amp;  &amp; 
 <profileDesc>
 <langUsage>
 <language ident="egy-egym-Egyp-Egypreg">frühes und klassisches Mittelägyptisch-reguläre Hieroglyphenschrift

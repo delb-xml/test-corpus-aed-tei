@@ -65,14 +65,22 @@
 </history>
 <additional>
 <listBibl>
-<bibl>- B. Porter und R. Moss, Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings. I. The Theban Necropolis. Part 2: Royal Tombs and Smaller Cemeteries, Oxford, 2. Aufl. 1964, 810 [B]
-- H.G. Fischer, An example of Memphite Influence in a Theban Stela of the Eleventh Dynasty, in: Artibus Asiae 22, 1959, 240-252, Fig. 1 [*P,Ü,K]
-- H.G. Fischer, The inscription of In.jt.f, born of Tfi, in: JNES 19, 1960, 258-268 [*P,*F,Ü,K]
-- W. Schenkel, Memphis - Herakleopolis - Theben (ÄgAbh 12), Wiesbaden 1965, 236-238, Nr. 380 [Ü]
-- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom (OBO 84), Freiburg und Göttingen 1988, 49-51, Nr. 20 [Ü]
-- G. Robins, The Art of Ancient Egypt, London 1997, 92, Abb. 90 [P]
-- http://www.metmuseum.org/works_of_art/collection_database/egyptian_art/stela_of_intef/objectview.aspx?collID=10&amp;OID=100001872 [P]
-- R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 28-31 (Nr. 10) [H, Ü]
+<bibl>- B. Porter und R. Moss, Topographical Bibliography of Ancient Egyptian Hieroglyphic Texts, Reliefs, and Paintings. I. The Theban Necropolis. Part 2: Royal Tombs and Smaller Cemeteries, Oxford, 2. Aufl. 1964, 810 [B]
+
+- H.G. Fischer, An example of Memphite Influence in a Theban Stela of the Eleventh Dynasty, in: Artibus Asiae 22, 1959, 240-252, Fig. 1 [*P,Ü,K]
+
+- H.G. Fischer, The inscription of In.jt.f, born of Tfi, in: JNES 19, 1960, 258-268 [*P,*F,Ü,K]
+
+- W. Schenkel, Memphis - Herakleopolis - Theben (ÄgAbh 12), Wiesbaden 1965, 236-238, Nr. 380 [Ü]
+
+- M. Lichtheim, Ancient Egyptian Autobiographies chiefly of the Middle Kingdom (OBO 84), Freiburg und Göttingen 1988, 49-51, Nr. 20 [Ü]
+
+- G. Robins, The Art of Ancient Egypt, London 1997, 92, Abb. 90 [P]
+
+- http://www.metmuseum.org/works_of_art/collection_database/egyptian_art/stela_of_intef/objectview.aspx?collID=10&amp;OID=100001872 [P]
+
+- R. Landgrafova, It is My Good Name that You Should Remember, Prague 2011, 28-31 (Nr. 10) [H, Ü]
+
 - A. Oppenheim u.a. (Hgg.), Ancient Egypt Transformed. The Middle Kingdom, New Haven / London 2015, 58-60, Nr. 10 [P,K]</bibl>
 </listBibl>
 </additional>
@@ -99,7 +107,7 @@
 <prefixDef ident="src" matchPattern="([wd]+)" replacementPattern="TBG2BVLAONEK3BHAASGMBGHAFU.xml#l$1"></prefixDef>
 </listPrefixDef>
 </encodingDesc>
-<profileDesc>
+<profileDesc> &amp;  &amp; 
 <langUsage>
 <language ident="egy-egym-Egyp-Egypreg">frühes und klassisches Mittelägyptisch-reguläre Hieroglyphenschrift
 </language>
